@@ -2,10 +2,10 @@
 
 Contributors: themefreesia
 Tags:  one-column, right-sidebar, flexible-header, custom-header, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, news, blog, education
-Requires at least: 6.1
-Tested up to: 6.3
+Requires at least: 6.7
+Tested up to: 6.8.1
 Requires PHP: 7.0
-Stable tag: 2.0
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -203,6 +203,9 @@ https://themefreesia.com/theme-freesia-demo-import/
 		Licensed: [GPLv2 or later]
 
 == Changelog ==
+= 2.0.2 =
+	* Update - Tested with latest version of WordPress
+
 = 2.0 =
 	* Site link and name changed
 	* Gototop not displaying issue fixed
